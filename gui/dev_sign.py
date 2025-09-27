@@ -12,7 +12,7 @@ class DevSign:
         self.pos_y = pos_y
         self.width = 30
         self.height = 30
-        self.sign = 'Made by jvillegasd :D'
+        self.sign = 'Made by Dhruv :D'
         self.font = pygame.font.Font(
             'assets/fonts/CascadiaCode-SemiBold.ttf', 14)
 
